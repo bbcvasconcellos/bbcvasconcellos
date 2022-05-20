@@ -3,7 +3,7 @@
 <hr/>
 
 
-### Currently working 💻
+<!--### Currently working 💻
 - Fullstack developer @ [CBYK](https://www.cbyk.com.br/) 
 - Mobile developer @ [Contaí](https://contaidigital.com.br/)
 
