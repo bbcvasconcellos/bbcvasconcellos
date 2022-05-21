@@ -37,7 +37,7 @@ I'm a frontend developer in transition into fullstack development
   </a>
 </span>
 
-## Reach me up on
+## 📫 Reach me up on
 <span>
   <img src="https://user-images.githubusercontent.com/61482516/169633029-eba5b35d-0056-42a4-856e-bf89525ac608.svg" width="50" height="50" />
   <img src="https://user-images.githubusercontent.com/61482516/169633134-c68cdf88-4593-440f-a5b2-deeb5af520c9.svg" width="50" height="50" />
