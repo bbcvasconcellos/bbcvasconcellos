@@ -39,8 +39,14 @@ I'm a frontend developer in transition into fullstack development
 
 ## 📫 Reach me up on
 <span>
-  <img src="https://user-images.githubusercontent.com/61482516/169633029-eba5b35d-0056-42a4-856e-bf89525ac608.svg" width="50" height="50" />
-  <img src="https://user-images.githubusercontent.com/61482516/169633134-c68cdf88-4593-440f-a5b2-deeb5af520c9.svg" width="50" height="50" />
+  <div>
+    <a href = "bbcvasconcellos@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">       
+    </a>
+    <a href="https://www.linkedin.com/in/bruno-vasconcellos-03664015a/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>   
+</div>
 </span>
 
 
