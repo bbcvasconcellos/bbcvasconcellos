@@ -37,6 +37,14 @@ I'm a frontend developer in transition into fullstack development
   </a>
 </span>
 
+## 📈 Stats
+<div>
+<a href="https://github.com/bbcvasconcellos">
+<img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbcvasconcellos&langs_count=7&theme=cobalt"/>
+  &nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbcvasconcellos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+</div>
+
 ## 📫 Reach me up on
 <span>
   <div>
@@ -48,6 +56,8 @@ I'm a frontend developer in transition into fullstack development
     </a>   
 </div>
 </span>
+
+
 
 
 <!--
