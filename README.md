@@ -60,7 +60,6 @@ I'm always trying to learn something new and looking for a challenge. Currently 
 
 ## ⚡ Fun fact
 - I'm polish-brazilian
-- That's Thunder my weimaraner dog in my profile pic
 
 
 
