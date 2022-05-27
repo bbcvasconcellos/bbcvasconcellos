@@ -1,7 +1,7 @@
 ## Hello there fellow dev! <img src="https://tenor.com/view/hello-there-baby-yoda-mandolorian-hello-gif-20136589.gif" widht="30" height="30" />
 ## you've just found my profile! 
 <img src="https://user-images.githubusercontent.com/61482516/169533309-0d02a21e-d7f8-485c-bd1a-fc2a71df2506.gif" width="250" height="150" /> 
-I'm a full stack developer by day and a mobile developer by night, or vice versa... 🤪 <br /> 
+I'm a full stack developer by day and a mobile developer by night, or vice versa...<br /> 
 I'm always trying to learn something new and looking for a challenge. Currently I'm studying and building more experience with backend tools.
 
 ## 👨🏻‍💻 Currently working 
