@@ -49,7 +49,7 @@ I'm always trying to learn something new and looking for a challenge. Currently 
 ## 📫 Reach me up on
 <span>
   <div>
-    <a href = "bbcvasconcellos@gmail.com">
+    <a href = "mailto: bbcvasconcellos@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">       
     </a>
     <a href="https://www.linkedin.com/in/bruno-vasconcellos-03664015a/" target="_blank">
