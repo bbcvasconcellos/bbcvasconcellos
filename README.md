@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/61482516/169533309-0d02a21e-d7f8-485c-bd1a-fc2a71df2506.gif" width="250" height="150" /> 
 I'm a full stack developer by day and a mobile developer by night, or vice versa...<br /> 
 I'm always trying to learn something new and looking for a challenge. <br/>
-Appreciator of good practices and clean code.
+Appreciator of good practices and clean code. <br />
 Currently I'm studying and building more experience with backend tools.
 
 ## 👨🏻‍💻 Currently working 
