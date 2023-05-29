@@ -60,10 +60,10 @@ Currently studying and building more experience with backend tools.
 </div>
 </span>
 
-## ⚡ Fun fact
+## ⚡ About me
 - I'm polish-brazilian
-
-
+- I love traveling and getting to know new places ✈️
+- I am an aviation/aerospace geek 🤓
 
 <!--
 **bbcvasconcellos/bbcvasconcellos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
