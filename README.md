@@ -7,14 +7,12 @@ Always learning something new and looking for a challenge. <br/>
 Currently studying and building more experience with backend tools.
 
 ## 👨🏻‍💻 Currently working 
-- Full stack developer @ [CBYK](https://www.cbyk.com.br/) 
-- Mobile developer @ [Contaí](https://contaidigital.com.br/)
+- Mobile developer @ [Meteomatics](https://www.meteomatics.com)
 
 ## 📚 Currently learning
 - German 🇩🇪  <br/>
 - NodeJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
 - NestJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50"/>
-- Docker <img src="https://user-images.githubusercontent.com/61482516/169633178-1bbe45a8-d87a-4997-9af5-76b81d4ccbcb.svg" width="50" height="50" />
 
 ## 🧰 Stack & Tools
 <span>
